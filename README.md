@@ -1,6 +1,6 @@
 # Bike Rental Demand Prediction using Time Series & Machine Learning
 
-## 📖 Overview
+## Overview
 This project focuses on analyzing and predicting bike rental demand using historical time-series data. The goal is to identify usage patterns and build forecasting models to support data-driven decision-making.
 
 ---
@@ -71,7 +71,7 @@ Models were evaluated using:
 
 ---
 
-## 📈 Results & Insights
+## Results & Insights
 - Identified strong seasonal patterns in bike rental demand  
 - Observed higher rentals during specific time periods and favorable weather conditions  
 - Time-series models captured trend and seasonality effectively  
